@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samikshya Baral</h1>
 <h3 align="center">Software Quality Tester</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;DevOps+Engineer;Building+Scalable+Systems;Microservices+%7C+Cloud+%7C+AI" />
-</p>
-
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Quality+Tester;Manual+%7C+API+%7C+Automation+Testing;Python+%7C+Playwright;Ensuring+Quality+Through+Testing" /> </p>
 
 ---
