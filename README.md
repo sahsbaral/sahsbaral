@@ -34,6 +34,7 @@
 ---
 
 🧰 QA & Technical Skills
+
 🧪 Testing
 
 Manual Testing
