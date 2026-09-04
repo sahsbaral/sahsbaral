@@ -7,26 +7,28 @@
 
 ---
 
-## 🚀 About Me
-
-- 💻 Full Stack Engineer with **3+ years of experience**
-- ⚙️ Strong in **Microservices, DevOps & Scalable Systems**
-- 🧠 Exploring **AI & Data-driven applications**
-- 🌍 Based in **Kathmandu, Nepal**
-- 🛠️ From **idea → architecture → deployment**
+🚀 About Me
+🧪 Junior QA with hands-on experience in Software Testing & Quality Assurance
+🔍 Experienced in Manual Testing, Functional Testing & Regression Testing
+🌐 Working with API Testing using Postman
+🐍 Learning and building test automation using Python & Playwright
+🗄️ Familiar with SQL & Database Testing
+🔧 Using Git & GitHub for version control
+💻 BCIS Graduate with a strong interest in Software Quality & Test Automation
+🌍 Based in Kathmandu, Nepal
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/gaurabpaudyal" target="blank">
+<a href="https://www.linkedin.com/in/samikshya-baral-014833285/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="https://github.com/gaurabpaudyal" target="blank">
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
-<a href="mailto:paudyal.gaurab11@gmail.com">
+<a href="sahsbaral1@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
