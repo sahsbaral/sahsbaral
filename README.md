@@ -7,15 +7,15 @@
 
 ---
 
-🚀 About Me
-🧪 Junior QA with hands-on experience in Software Testing & Quality Assurance
-🔍 Experienced in Manual Testing, Functional Testing & Regression Testing
-🌐 Working with API Testing using Postman
-🐍 Learning and building test automation using Python & Playwright
-🗄️ Familiar with SQL & Database Testing
-🔧 Using Git & GitHub for version control
-💻 BCIS Graduate with a strong interest in Software Quality & Test Automation
-🌍 Based in Kathmandu, Nepal
+-🚀 About Me
+-🧪 Junior QA with hands-on experience in Software Testing & Quality Assurance
+-🔍 Experienced in Manual Testing, Functional Testing & Regression Testing
+-🌐 Working with API Testing using Postman
+-🐍 Learning and building test automation using Python & Playwright
+-🗄️ Familiar with SQL & Database Testing
+-🔧 Using Git & GitHub for version control
+-💻 BCIS Graduate with a strong interest in Software Quality & Test Automation
+-🌍 Based in Kathmandu, Nepal
 
 ---
 
