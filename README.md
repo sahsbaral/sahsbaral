@@ -105,13 +105,6 @@ CI/CD & Advanced QA Automation
 🌐 Strengthening API & database testing
 🚀 Learning CI/CD for automated testing
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahsbaral/sahsbaral/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ⚡ Fun Fact
 
