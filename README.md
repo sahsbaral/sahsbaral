@@ -36,8 +36,6 @@
 🧰 QA & Technical Skills
 🧪 Testing
 
-<p> <img src="https://skillicons.dev/icons?i=selenium" /> </p>
-
 Manual Testing
 Functional Testing
 Regression Testing
@@ -49,15 +47,14 @@ Bug Reporting
 Boundary Value Analysis
 Equivalence Partitioning
 Requirement Traceability Matrix
+
 🤖 Test Automation
 
-<p> <img src="https://skillicons.dev/icons?i=python,selenium" /> </p>
-
 Playwright with Python
-Selenium with Python
 Pytest
 UI Automation
 Automated Functional Testing
+
 🌐 API & Database
 
 <p> <img src="https://skillicons.dev/icons?i=postman,postgres,mysql" /> </p>
@@ -68,6 +65,7 @@ HTTP Methods & Status Codes
 JSON
 SQL
 Database Validation
+
 🛠️ Tools & Technologies
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
