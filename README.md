@@ -33,30 +33,50 @@
 
 ---
 
-## 🧰 Tech Stack
+🧰 QA & Technical Skills
+🧪 Testing
 
-### 🚀 Core
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,go,python" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=selenium" /> </p>
 
-### ⚡ Backend & Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,nextjs,react" />
-</p>
+Manual Testing
+Functional Testing
+Regression Testing
+Smoke Testing
+Integration Testing
+UI Testing
+Test Case Design
+Bug Reporting
+Boundary Value Analysis
+Equivalence Partitioning
+Requirement Traceability Matrix
+🤖 Test Automation
 
-### 🗄️ Databases & Messaging
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=python,selenium" /> </p>
 
-### ⚙️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,github" />
-</p>
+Playwright with Python
+Selenium with Python
+Pytest
+UI Automation
+Automated Functional Testing
+🌐 API & Database
 
----
+<p> <img src="https://skillicons.dev/icons?i=postman,postgres,mysql" /> </p>
 
+REST API Testing
+Postman
+HTTP Methods & Status Codes
+JSON
+SQL
+Database Validation
+🛠️ Tools & Technologies
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+
+Git & GitHub
+VS Code
+Jira / Bug Tracking
+Agile / Scrum
+CI/CD Fundamentals
 ## 💼 Experience Highlights
 
 ### 🧑‍💻 Full Stack Engineer — Information Care Pvt Ltd (2025–Present)
