@@ -76,79 +76,43 @@ VS Code
 Jira / Bug Tracking
 Agile / Scrum
 CI/CD Fundamentals
-## 💼 Experience Highlights
 
-### 🧑‍💻 Full Stack Engineer — Information Care Pvt Ltd (2025–Present)
-- Leading development & DevOps workflows
-- Implemented **CI/CD pipelines, Dockerized systems**
-- Managing **cloud deployments (DigitalOcean)**
-
-### 🚗 Full Stack Developer — Tootle (2024–2025)
-- Built scalable systems handling **high concurrency**
-- Worked with **microservices + monorepo architecture**
-
----
-
-## 🚀 Featured Projects
-
-### 🏛️ Service Bus
-> E-Governance automation platform for Nepal  
-- Modular Monolith (NestJS)  
-- GraphQL APIs  
-- RabbitMQ for async workflows  
-- Next.js scalable frontend  
-
-🔗 https://servicebus.palikaportal.com  
-
----
-
-### 🌾 Connect Kisan
-> Digital agriculture ecosystem  
-- Express.js APIs  
-- Next.js with Nepali localization  
-- AI chatbot integration  
-- Mobile push notifications  
-
-🔗 https://connectkisan.com  
-
----
-
-### 📊 Digital Profiling
-> Municipality data analytics system  
-- Large-scale census data processing  
-- Advanced data visualization dashboards  
-
-🔗 https://lalbandi.profiling.cliffbyte.com  
-
----
+📊 What I'm Currently Learning
+Manual Testing
+      ↓
+API Testing
+      ↓
+Python
+      ↓
+Playwright
+      ↓
+Pytest
+      ↓
+Test Automation
+      ↓
+CI/CD & Advanced QA Automation
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grbpdl&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grbpdl&theme=tokyonight" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahsbaral&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahsbaral&theme=tokyonight" /> </p>
 ---
+
+🎯 What I'm Focused On
+🧪 Becoming a strong QA Engineer
+🤖 Building reliable test automation frameworks
+🐍 Improving my Python programming skills
+🎭 Expanding my Playwright automation skills
+🌐 Strengthening API & database testing
+🚀 Learning CI/CD for automated testing
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grbpdl/grbpdl/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sahsbaral/sahsbaral/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🎯 What I'm Focused On
+⚡ Fun Fact
 
-- Scaling **distributed systems**
-- Building **AI-powered applications**
-- Improving **DevOps automation & system reliability**
-
----
-
-## ⚡ Fun Fact
-
-> I build systems that don’t just work — they scale.
-
----
+I don't just test whether software works - I test how it can break. 🧪
