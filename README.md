@@ -1,111 +1,148 @@
-<h1 align="center">Hi 👋 I'm Samikshya Baral</h1>
-<h3 align="center">Software Quality Tester</h3>
+# 👋 Hi, I'm Samikshya Baral
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Quality+Tester;Manual+%7C+API+%7C+Automation+Testing;Python+%7C+Playwright;Ensuring+Quality+Through+Testing" /> </p>
+### 🧪 Junior QA Engineer | Manual Testing | API Testing | Test Automation
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Breaking+Software+Before+Users+Do;Manual+%7C+API+%7C+Automation+Testing;Python+%7C+Playwright+%7C+Pytest;Quality+is+Built+Through+Testing" alt="Typing SVG" />
+</p>
 
--🚀 About Me
--🧪 Junior QA with hands-on experience in Software Testing & Quality Assurance
--🔍 Experienced in Manual Testing, Functional Testing & Regression Testing
--🌐 Working with API Testing using Postman
--🐍 Learning and building test automation using Python & Playwright
--🗄️ Familiar with SQL & Database Testing
--🔧 Using Git & GitHub for version control
--💻 BCIS Graduate with a strong interest in Software Quality & Test Automation
--🌍 Based in Kathmandu, Nepal
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/samikshya-baral-014833285/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://github.com/gaurabpaudyal" target="blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-<a href="sahsbaral1@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+<p align="center">
+  <a href="https://github.com/sahsbaral">
+    <img src="https://img.shields.io/badge/GitHub-sahsbaral-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samikshya-baral-014833285/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-🧰 QA & Technical Skills
+## 💫 About Me
 
-🧪 Testing
+I'm a BCIS graduate and Junior QA professional passionate about software quality, problem-solving, and building reliable applications.
 
-Manual Testing
-Functional Testing
-Regression Testing
-Smoke Testing
-Integration Testing
-UI Testing
-Test Case Design
-Bug Reporting
-Boundary Value Analysis
-Equivalence Partitioning
-Requirement Traceability Matrix
+- 🔍 Hands-on experience in manual testing of web and mobile applications
+- 🧪 Practicing functional, integration, regression, and exploratory testing
+- 🌐 Validating REST APIs using Postman
+- 🐍 Learning test automation with Python, Playwright, and Pytest
+- 🗄️ Using SQL for database validation and data verification
+- 🐞 Writing test cases, identifying defects, and documenting reproducible bug reports
+- 🔄 Familiar with Agile/Scrum workflows and Git-based version control
+- 📍 Kathmandu, Nepal
 
-🤖 Test Automation
+I enjoy exploring edge cases, investigating unexpected behavior, and making software more reliable—one test at a time.
 
-Playwright with Python
-Pytest
-UI Automation
-Automated Functional Testing
-
-🌐 API & Database
-
-<p> <img src="https://skillicons.dev/icons?i=postman,postgres,mysql" /> </p>
-
-REST API Testing
-Postman
-HTTP Methods & Status Codes
-JSON
-SQL
-Database Validation
-
-🛠️ Tools & Technologies
-
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
-
-Git & GitHub
-VS Code
-Jira / Bug Tracking
-Agile / Scrum
-CI/CD Fundamentals
-
-📊 What I'm Currently Learning
-Manual Testing
-      ↓
-API Testing
-      ↓
-Python
-      ↓
-Playwright
-      ↓
-Pytest
-      ↓
-Test Automation
-      ↓
-CI/CD & Advanced QA Automation
-
-## 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahsbaral&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahsbaral&theme=tokyonight" /> </p>
 ---
 
-🎯 What I'm Focused On
-🧪 Becoming a strong QA Engineer
-🤖 Building reliable test automation frameworks
-🐍 Improving my Python programming skills
-🎭 Expanding my Playwright automation skills
-🌐 Strengthening API & database testing
-🚀 Learning CI/CD for automated testing
+## 🛠️ Tech Stack & Skills
 
+### 🧪 Quality Assurance
+<p>
+  <img src="https://img.shields.io/badge/Manual_Testing-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Functional_Testing-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Regression_Testing-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Integration_Testing-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exploratory_Testing-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Test_Case_Design-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bug_Reporting-2563EB?style=flat-square" />
+</p>
 
-⚡ Fun Fact
+### 🤖 Test Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=python,selenium" alt="Automation technologies" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+</p>
 
-I don't just test whether software works - I test how it can break. 🧪
+### 🌐 API & Database Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,postgres,mysql" alt="API and database tools" />
+</p>
+
+- REST API validation and CRUD operations
+- HTTP methods, status codes, and JSON responses
+- SQL queries and database verification
+
+### 🔧 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jira" alt="Development and QA tools" />
+</p>
+
+- Git & GitHub
+- Jira and ClickUp for issue tracking
+- VS Code
+- Agile/Scrum fundamentals
+- CI/CD fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Playwright Automation Framework**
+- Building automated UI tests using Python, Playwright, and Pytest
+- Practicing reusable test structures, assertions, and test execution
+- Exploring maintainable automation practices
+
+🔹 **API Testing Collection**
+- Practicing REST API testing with Postman
+- Validating CRUD operations, response codes, and response data
+
+🔹 **Manual QA Test Documentation**
+- Designing test scenarios and structured test cases
+- Documenting reproducible defects with steps, expected results, and actual results
+
+> Replace these descriptions with links to your actual repositories as each project becomes available.
+
+---
+
+## 📈 My Learning Journey
+
+```text
+Manual QA & Test Design
+        ↓
+REST API Testing with Postman
+        ↓
+Python Fundamentals
+        ↓
+Playwright + Pytest
+        ↓
+Reusable Automation Frameworks
+        ↓
+CI/CD & Advanced QA Practices
+```
+
+Currently focused on strengthening my automation skills while continuing to improve my manual testing, API validation, and debugging abilities.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahsbaral&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahsbaral&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahsbaral&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🎯 What I'm Working Toward
+
+- Becoming a well-rounded QA Engineer
+- Writing maintainable and reliable automated tests
+- Improving Python and Playwright proficiency
+- Deepening API and database testing knowledge
+- Learning CI/CD workflows for continuous testing
+- Contributing to better software quality through thoughtful testing
+
+---
+
+<p align="center">
+  <i>⚡ I don't just test whether software works. I explore how, when, and why it might break.</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! Let's connect and build better software. 🤝</b>
+</p>
